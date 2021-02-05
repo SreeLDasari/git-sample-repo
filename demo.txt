@@ -2,3 +2,10 @@ status
 add
 pull
 commit
+
+
+
+
+
+
+changes in brach 2
