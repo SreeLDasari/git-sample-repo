@@ -1,0 +1,6 @@
+status
+add
+pull
+commit
+push
+clone
