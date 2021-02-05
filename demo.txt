@@ -1,4 +1,4 @@
+status
 add
 pull
 commit
-push
