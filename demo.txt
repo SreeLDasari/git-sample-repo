@@ -2,7 +2,3 @@ status
 add
 pull
 commit
-
-branch1
-
-branch1-1
