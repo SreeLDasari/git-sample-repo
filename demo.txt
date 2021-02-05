@@ -2,5 +2,3 @@ status
 add
 pull
 commit
-
-branch2
