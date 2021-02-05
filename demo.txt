@@ -1,4 +1,9 @@
 status
+init
 add
 pull
 commit
+log
+diff
+remote
+push
